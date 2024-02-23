@@ -1,0 +1,72 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "empty.state" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Producto no encontrado, realiza otra busqueda."
+          }
+        }
+      }
+    },
+    "error.state" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lo sentimos, ha ocurrido un error, inténtalo más tarde."
+          }
+        }
+      }
+    },
+    "initial.state" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Realiza una búsqueda para encontrar productos. "
+          }
+        }
+      }
+    },
+    "intenet.error.state" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No tienes conexión a internet, revisa tu conexión e intenta nuevamente."
+          }
+        }
+      }
+    },
+    "search" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Buscar en Mercado Libre"
+          }
+        }
+      }
+    },
+    "seemore" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ver más"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}
